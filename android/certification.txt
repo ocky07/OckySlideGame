@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Ocky Slide 2.0
+---------------------------------------------------
+
+app_name - 						Ocky Slide
+app_alias - 					ockyslide
+app_author_name - 				Prudhvi
+app_author_organizational - 	Ocky
+app_author_organization - 		Ocky
+app_author_locality - 			Ocky
+app_author_state - 				Andhra Pradesh
+app_author_country - 			India
+app_password - 					lTxA8TARqXjL
+app_versionName - 				versionName "2.0"
+app_versionCode - 				200
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 20th of February 2025 08:12:17 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
